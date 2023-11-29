@@ -1,3 +1,5 @@
+#!/bin/bash
+
 CUSTOMER=ilmarketing
 echo $CUSTOMER
 
