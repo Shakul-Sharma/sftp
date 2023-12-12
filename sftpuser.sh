@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CUSTOMER=shakul
+CUSTOMER=ajay
 echo $CUSTOMER
 
 adduser --home /sftp/$CUSTOMER --shell /bin/false $CUSTOMER --disabled-password 
