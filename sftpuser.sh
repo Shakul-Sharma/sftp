@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CUSTOMER=ajay
+CUSTOMER=varun
 echo $CUSTOMER
 
 adduser --home /sftp/$CUSTOMER --shell /bin/false $CUSTOMER --disabled-password 
